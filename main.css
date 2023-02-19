@@ -268,12 +268,6 @@ footer {
 }
 
 
-
-@media only screen and (max-width:850px) {
-  .colour {
-  display:none;
-  }
-
   @media only screen and (max-width:600px) {
     .container {
       display:inline-flexbox;
