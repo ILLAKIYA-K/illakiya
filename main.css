@@ -128,21 +128,6 @@ li:last-child {
   margin-left: 0;
 }
 
-
-
-
-
-li:first-child {
-  font-weight: bold;
-}
-
-li:last-child {
-  font-style: italic;
-}
-
-
-
-
 article p:first-child {
   color: red;
 }
@@ -241,9 +226,7 @@ h1 {
 nav {
   float: right;
 }
-.clear {
-  clear: both;
-}
+
 .clearfix::after {
   clear: both;
   content: "";
@@ -254,6 +237,7 @@ article {
   font-size: 10px;
   float: left;
 }
+
 aside {
   width: 300px;
   font-size: 10px;
